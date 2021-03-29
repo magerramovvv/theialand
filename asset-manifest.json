@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/theialand/static/css/main.52ac1217.chunk.css",
+    "main.js": "/theialand/static/js/main.d3069708.chunk.js",
+    "main.js.map": "/theialand/static/js/main.d3069708.chunk.js.map",
+    "runtime-main.js": "/theialand/static/js/runtime-main.7f0cb433.js",
+    "runtime-main.js.map": "/theialand/static/js/runtime-main.7f0cb433.js.map",
+    "static/js/2.40beedb0.chunk.js": "/theialand/static/js/2.40beedb0.chunk.js",
+    "static/js/2.40beedb0.chunk.js.map": "/theialand/static/js/2.40beedb0.chunk.js.map",
+    "index.html": "/theialand/index.html",
+    "static/css/main.52ac1217.chunk.css.map": "/theialand/static/css/main.52ac1217.chunk.css.map",
+    "static/js/2.40beedb0.chunk.js.LICENSE.txt": "/theialand/static/js/2.40beedb0.chunk.js.LICENSE.txt",
+    "static/media/cart.fc757798.png": "/theialand/static/media/cart.fc757798.png",
+    "static/media/check.a6348505.png": "/theialand/static/media/check.a6348505.png",
+    "static/media/logo.d1cd3d4c.PNG": "/theialand/static/media/logo.d1cd3d4c.PNG",
+    "static/media/logo2.30245987.PNG": "/theialand/static/media/logo2.30245987.PNG",
+    "static/media/loupe.c6544d31.png": "/theialand/static/media/loupe.c6544d31.png",
+    "static/media/telegram.57d9e507.png": "/theialand/static/media/telegram.57d9e507.png",
+    "static/media/user.cb673a74.png": "/theialand/static/media/user.cb673a74.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f0cb433.js",
+    "static/js/2.40beedb0.chunk.js",
+    "static/css/main.52ac1217.chunk.css",
+    "static/js/main.d3069708.chunk.js"
+  ]
+}
